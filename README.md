@@ -32,8 +32,8 @@ The solution uses Liferay database, so no there is need to install an additional
 If deployed against a portlet container, the end-user features are available via the portlet's standard View mode, while administrative features are available via the Edit mode. 
 
 ### NOTE
-Since version 3.4.1, Valamis Community Edition is separated into three packages on GitHub: Valamis LRS (Learning Record Store, https://github.com/arcusys/valamis-lrs),
-Learning Paths (https://github.com/arcusys/learning-paths), Valamis components (this repository). You need to compile all of these.
+Since version 3.4.1, Valamis Community Edition is separated into three packages on GitHub: Valamis LRS (Learning Record Store, https://github.com/valamis/valamis-lrs),
+Learning Paths (https://github.com/valamis/learning-paths), Valamis LXP components (this repository). You need to compile all of these.
 
 ### Download 
 Download Valamis CE source code from this repository and compile the application yourself.
