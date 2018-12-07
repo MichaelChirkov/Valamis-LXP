@@ -1,14 +1,15 @@
 # Valamis - eLearning for Liferay
 
+Valamis LXP is a social learning environment for sharing and receiving knowledge. We want to enable people to share their knowledge and learn through digital technologies and user interaction. You can use Valamis as your organization's social learning environment.
+
 **http://valamis.com/**
 
 [![build status](https://api.travis-ci.org/arcusys/Valamis.png)](http://travis-ci.org/arcusys/Valamis)
 
 ### This is Valamis CE version - No support - No warranty
-To get supported Valamis Enterprise Edition contact us by http://valamis.arcusys.com/get-valamis
-or purchase it straight from Liferay Marketplace http://www.liferay.com/marketplace/-/mp/application/35268197
+To get a demo of the latest and fully supported Valamis LXP version, contact us by http://www.valamis.com/sign-up-for-a-demo
 
-#### The following features are not supported in the CE version:
+#### The following features are not supported in this CE version:
 * Competences
 * Knowledge Map
 * Mobile application
@@ -16,9 +17,7 @@ or purchase it straight from Liferay Marketplace http://www.liferay.com/marketpl
 * Training Events
 * Lesson Studio Beta
 
-Valamis is a social learning environment for sharing and receiving knowledge. We want to enable people to share their knowledge and learn through digital technologies and user interaction. You can use Valamis as your organization's social learning environment.
-
-Supported Liferay version is currently 6.2 and DXP 7.0 SP3.
+Supported Liferay version is 6.2 and DXP 7.0 SP3.
 The targeted version of SCORM is 2004 4th edition with support of SCORM 1.2.
 All server-side code is written using the Scala programming language for the JVM.
 
