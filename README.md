@@ -7,7 +7,7 @@ Valamis LXP is a social learning environment for sharing and receiving knowledge
 [![build status](https://api.travis-ci.org/arcusys/Valamis.png)](http://travis-ci.org/arcusys/Valamis)
 
 ### This is Valamis CE version - No support - No warranty
-To get a demo of the latest and fully supported Valamis LXP version, contact us by http://www.valamis.com/sign-up-for-a-demo
+To get a demo of the latest and fully supported Valamis LXP version, contact us by **http://www.valamis.com/sign-up-for-a-demo**
 
 #### The following features are not supported in this CE version:
 * Competences
